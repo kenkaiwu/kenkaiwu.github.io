@@ -45,4 +45,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://kennethwu.me/assets/kenneth-wu---resume.pdf</loc>
+    <lastmod>2017-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

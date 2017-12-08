@@ -1,9 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kennethwu.me" resolutions="1x" timestamp="1512727496767">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kennethwu.me" resolutions="1x" timestamp="1512729410622">
+  <folder name="assets">
+    <file name="kenneth-wu---resume.pdf" crc="4140174629" seo="true" mt="1512480276000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="277049423"/>
     <file name="portfolio.css" crc="192580317" ref="portfolio"/>
-    <file name="index.css" crc="4028501092" ref="index"/>
-    <file name="nomq_index.css" crc="3831882514" ref="index"/>
+    <file name="index.css" crc="99951264" ref="index"/>
+    <file name="nomq_index.css" crc="3867126849" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio"/>
@@ -59,6 +62,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4089010906" seo="true" mt="1512715723739" redirect="true"/>
+  <file name="index.html" crc="4236801987" seo="true" mt="1512729396124" redirect="true"/>
   <file name="portfolio.html" crc="4021376006" seo="true" mt="1512697744226" redirect="false"/>
 </manifest>
