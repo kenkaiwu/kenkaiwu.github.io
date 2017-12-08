@@ -1,0 +1,64 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kennethwu.me" resolutions="1x" timestamp="1512727496767">
+  <folder name="css">
+    <file name="site_global.css" crc="277049423"/>
+    <file name="portfolio.css" crc="192580317" ref="portfolio"/>
+    <file name="index.css" crc="4028501092" ref="index"/>
+    <file name="nomq_index.css" crc="3831882514" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:portfolio"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="cover6-crop-u184.jpg" crc="152814377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 925x925-crop-u975.jpg" crc="4216485325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="odayfw.png" crc="353345865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="aiesecfw.png" crc="308310607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibpfw.png" crc="3835712690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cover6.jpg" crc="3893090238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 925x925-crop-u9752.jpg" crc="459918879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 925x925-crop-u9753.jpg" crc="210822325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="odayfw649x191.png" crc="305508945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aiesecfw649x191.png" crc="9849950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibpfw649x191.png" crc="267178209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4089010906" seo="true" mt="1512715723739" redirect="true"/>
+  <file name="portfolio.html" crc="4021376006" seo="true" mt="1512697744226" redirect="false"/>
+</manifest>
